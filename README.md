@@ -10,3 +10,14 @@ With that being said, i tried to expand the tool a little bit with an good under
 I make this tool with a purpose of testing how many percentages that somebody uses the same password again.
 
 ![Image](http://4.bp.blogspot.com/-7wnnp2fbrJU/U8DP5hPtiuI/AAAAAAAAAFM/rKKWanXaFY0/s1600/MassAccountChecker.png?raw=true)
+
+
+- I used the same idea for checking email, got a little problem with Hotmail since some functions need to be enabled by the owners to make the checker works, yahoo and gmail work fine.
+- Facebook has the highest security measure since it checks for a lot of thing before one can claim the ownership of the account.
+- Steam needs a lot of verification steps but since one has control of the mailbox, he can do everything.
+- Instagram and mostly others are easy to bypass.
+* I used mostly HttpUrlConnection and Selenium, HttpUnit to test.
+
+Feel free to PM me whenever you need :) 
+
+PS: download link is from the website above
