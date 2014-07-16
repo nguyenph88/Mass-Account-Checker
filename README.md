@@ -20,4 +20,4 @@ I make this tool with a purpose of testing how many percentages that somebody us
 
 Feel free to PM me whenever you need :) 
 
-PS: download link is from the website above, i just removed the link
+PS: download link is from the website above, i just removed the link.
